@@ -1,0 +1,8 @@
+tags:
+  device_tags:
+  - label: leaf1DTag1
+    value: leaf1DVal1
+  - label: TEST_LABEL
+    value: TEST_VALUE
+    device_id: WTW24520095
+  
